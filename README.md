@@ -14,10 +14,12 @@
 - Python 3.10+
 - Библиотека `rich` для красивого текста
 
-```bash
-pip install rich
+Автор: Gregory Bushkov
 
 ## Установка
+
+```bash
+pip install rich
 
 ### Клонируем репозиторий
 git clone <ссылка на репозиторий>
@@ -33,5 +35,3 @@ pip install -r requirements.txt
 ## Запуск
 
 python main.py
-
-Автор: Gregory Bushkov
